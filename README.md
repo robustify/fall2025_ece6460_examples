@@ -1,4 +1,4 @@
-# ECE 6460 Examples Repository - Fall 2023
+# ECE 6460 Examples Repository - Fall 2024
 
 This repository contains the instructions for setting up a PC with Ubuntu 20.04 and ROS Noetic to follow along with the ECE 6460 lecture videos and implement the corresponding programming homework assignments.
 
