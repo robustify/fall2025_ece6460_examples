@@ -20,7 +20,7 @@ To install natively:
 - Install Ubuntu!  This step depends on whether you're installing on a separate partition or on the entire hard drive.  If you want to install Ubuntu next to Windows, you can use the Windows disk management utility to resize your existing Windows installation and create a new, second partition.  Ubuntu can then be installed on this new partition.  However, be careful when doing this, and back up any important files just in case something happens to your original Windows installation.
 
 To set up a virtual machine:
-- Download and install VMWare player for Windows from [https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html).
+- Download and install VMWare player for Windows from [here](https://1drv.ms/u/s!Ar6id-4c-fy31Qs6W53MPME0j493).
 - Create a VM by following along with this walkthrough video: [https://youtu.be/H5p4uQ-kdGw](https://youtu.be/H5p4uQ-kdGw).
 The video depicts setting up an Ubuntu 18.04 virtual machine, but everything works the same for Ubuntu 20.04. Just be sure you are using a 20.04 desktop image file instead of the one you see in the video.
 - During the setup process, you will have to add this line to the bottom of your `.bashrc` script:
