@@ -1,4 +1,4 @@
-# ECE 6460 Examples Repository - Fall 2024
+# ECE 6460 Examples Repository - Fall 2025
 
 This repository contains the instructions for setting up a PC with Ubuntu 20.04 and ROS Noetic to follow along with the ECE 6460 lecture videos and implement the corresponding programming homework assignments.
 
@@ -33,7 +33,7 @@ export SVGA_VGPU10=0
 Once the operating system is set up properly in a native installation or VM, it is time to set up the software. This includes installing ROS, Git, the Visual Studio Code IDE, and binaries for the supporting code that will be used during the course.
 
 To do this, first download the script that automates the software installation, and save it somewhere in your Ubuntu filesystem:
-[software_setup_ece6460.bash](https://onedrive.live.com/download?resid=B7FCF91CEE77A2BE%219351&authkey=!AFOCKGNbNQr5TXM)
+[software_setup_ece6460.bash](https://1drv.ms/u/c/b7fcf91cee77a2be/Eb6id-4c-fwggLeHJAAAAAABFybUauxstTBwrjyiVyF51Q)
 
 Then, open a terminal with `Ctrl-Alt-T`, `cd` to the location where `software_setup_ece6460.bash` is saved, and enter the following commands to first make the script executable, and then actually run it:
 
